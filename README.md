@@ -1,7 +1,7 @@
 <h1 align="center">WallMap</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e875995d-5574-4e34-83ca-8d5c6a5de601" alt="Wallmap" width="650">  
+  <img src="https://github.com/user-attachments/assets/e875995d-5574-4e34-83ca-8d5c6a5de601" alt="Wallmap" width="650" height="600">  
 </p>
 
 
